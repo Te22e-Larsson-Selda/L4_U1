@@ -1,7 +1,7 @@
 body
 .diven{
     display: grid;
-    gap: 20px;
+    gap: 10px;
     grid-template-columns: 150px  4fr;
     grid-template-rows: 100px 6fr 80px;
 }
